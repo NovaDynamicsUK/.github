@@ -3,7 +3,7 @@
 # Mission Statement
 **Evolve - Secure - Inspire**
 
-Our mission is to secure systems, inspire innovation, and contribute our to causes that make a meaningful impact. We collaborate on open-source projects, support organisations such as TraceLabs, and utilise our skills to build a safer, more connected world.
+Our mission is to secure systems, inspire innovation, and contribute to causes that make a meaningful impact. We collaborate on open-source projects, support organisations such as TraceLabs, and utilise our skills to build a safer, more connected world.
 
 At NovaDynamics, *a private unincorporated association*, we aim to:
 
@@ -47,11 +47,11 @@ ADA-TG, *Astronomical Data Analysis & Terrestrial Guard*, is a dual-system desig
 
 ## Get Involved
 
-We are always looking for passionate individuals to join us in our mission. Whether you're a developer, ethical hacker, or simply passionate about STEM, there's a place for you in our open community. Over on [Discord](https://discord.gg/xP5rCFn2Ep!)!
+We are always looking for passionate individuals to join us in our mission. Whether you're a developer, ethical hacker, or simply passionate about STEM, there's a place for you in our open community. Over on [Discord](https://discord.gg/xP5rCFn2Ep)!
 
 ## Ways to Contribute
 - Fork our repositories and submit pull requests with improvements or features. Ensuring proper documentation inline with the repositories specifications.
-- Participate in our community over on [Discord](https://discord.gg/xP5rCFn2Ep!).
+- Participate in our community over on [Discord](https://discord.gg/xP5rCFn2Ep).
 - Join our efforts and inspire the next generation!
 
 ## Contact Us
@@ -59,4 +59,4 @@ We are always looking for passionate individuals to join us in our mission. Whet
 Want to learn more or get involved? Feel free to reach out:
 
 - **Website**: [novacrew.uk](https://NovaCrew.uk)
-- **Discord**: [Join here](https://discord.gg/xP5rCFn2Ep!)
+- **Discord**: [Join here](https://discord.gg/xP5rCFn2Ep)
