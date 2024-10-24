@@ -1,4 +1,4 @@
-![Logo](https://cdn.discordapp.com/attachments/1296577599803490399/1296586818527170623/novalogotransparent.png?ex=6712d412&is=67118292&hm=c786037f3c46cba5e8de8d2ddd9fcc868457c8f08234825e28875ac02d630e5a&)
+![Logo](https://github.com/NovaDynamicsUK/.github/blob/main/media/Nova_large.png?raw=true)
 
 # Mission Statement
 **Evolve - Secure - Inspire**
